@@ -9,7 +9,7 @@
 - 💻 I specialize in **MERN Stack & Full Stack Web Development**
 - 🌱 Currently learning and contributing to **Open Source**
 - 🤝 Always open to **collaboration on meaningful projects**
-- ✉️ Reach me at: **peliritter7@gmail.com@gmail.com**
+- ✉️ Reach me at: **peliritter7@gmail.com**
 - 🌐 Portfolio: [Coming Soon]
 
 ---
