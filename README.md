@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Richard Baluku</h1>
+<h3 align="center">MERN Stack & Full Stack Developer from Uganda 🇺🇬</h3>
 
-<!--
-**Tooro-byte/Tooro-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  
+</p>
 
-Here are some ideas to get you started:
+- 🌍 Based in **Mpondwe Lhubiriha Town Council, Kasese District, Uganda**
+- 💻 I specialize in **MERN Stack & Full Stack Web Development**
+- 🌱 Currently learning and contributing to **Open Source**
+- 🤝 Always open to **collaboration on meaningful projects**
+- ✉️ Reach me at: **richard.baluku.dev@gmail.com**
+- 🌐 Portfolio: [Coming Soon]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+```javascript
+Languages & Tools:
+HTML • CSS • Bootstrap • JavaScript • Node.js • React.js • Vue.js • Pug
+MongoDB • NoSQL • Git • Express.js • REST APIs
