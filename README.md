@@ -10,8 +10,8 @@
 **Languages & Tools I Use:**
 
 - 🌐 HTML5, CSS3, Bootstrap  
-- 💻 JavaScript (ES6+), Node.js, Vue.js, React.js, Pug  
-- 🛠️ MongoDB, NoSQL  
+- 💻 Java, JavaScript, Typescript & React
+- 🛠️ MongoDB, NoSQL, POstgres, Springboot, express and Node Js
 - ⚙️ Git & GitHub, VS Code  
 
 ---
@@ -21,7 +21,8 @@
 - 🔭 I’m currently working on full-stack web projects  
 - 🌱 I’m always learning new technologies and improving my skills  
 - 💬 I love contributing to open source and collaborating with other developers  
-- 🧡 Fun fact: I enjoy volunteering, reading, and exploring tech communities  
+- 🧡 Fun fact: I enjoy volunteering, reading, and exploring tech communities
+- 🧡 Fun fact: I am currently learning C# and .NET framework 
 
 ---
 
